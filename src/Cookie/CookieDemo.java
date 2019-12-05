@@ -51,7 +51,7 @@ public class CookieDemo {
 	    Cookie cookie = driver.manage().getCookieNamed("S");
 	    
 	    System.out.println("name of cookie "+ cookie.getName());
-		System.out.println("demo pull");
+	
 	    
 	}
 
